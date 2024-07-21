@@ -1,2 +1,5 @@
 # CS50
-CS50 Harvard
+
+https://home.edx.org/
+
+CS50 Harvard Introduction to Computer Science
